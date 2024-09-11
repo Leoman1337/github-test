@@ -1,10 +1,11 @@
 {
-    "name": "GitHub test",
+    "name": "GitHub test - Copy",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "GitHub test": "github:leoman1337/github-test#886d45e37cba49f400487abceada5c19ff1b4d26"
     },
     "files": [
         "main.blocks",
